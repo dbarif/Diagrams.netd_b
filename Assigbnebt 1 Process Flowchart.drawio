@@ -76,14 +76,15 @@
         <mxCell id="HDDq8H93w2WPMRreEl1R-20" value="Is QR Code&lt;div&gt;North?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HDDq8H93w2WPMRreEl1R-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HDDq8H93w2WPMRreEl1R-23" target="HDDq8H93w2WPMRreEl1R-24">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HDDq8H93w2WPMRreEl1R-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HDDq8H93w2WPMRreEl1R-23" target="HDDq8H93w2WPMRreEl1R-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HDDq8H93w2WPMRreEl1R-23" value="Is QR Code&lt;div&gt;South?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="400" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="HDDq8H93w2WPMRreEl1R-24" value="Is QR Code&lt;div&gt;West?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="520" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HDDq8H93w2WPMRreEl1R-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HDDq8H93w2WPMRreEl1R-27" target="HDDq8H93w2WPMRreEl1R-28">
           <mxGeometry relative="1" as="geometry" />
@@ -113,11 +114,6 @@
         </mxCell>
         <mxCell id="HDDq8H93w2WPMRreEl1R-35" value="Piston_2 Extends" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="415" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="HDDq8H93w2WPMRreEl1R-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="HDDq8H93w2WPMRreEl1R-42" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="560" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="HDDq8H93w2WPMRreEl1R-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="HDDq8H93w2WPMRreEl1R-42" target="HDDq8H93w2WPMRreEl1R-43" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry" />
@@ -161,6 +157,24 @@
         </mxCell>
         <mxCell id="HDDq8H93w2WPMRreEl1R-56" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="742" y="545" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HDDq8H93w2WPMRreEl1R-57" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HDDq8H93w2WPMRreEl1R-58" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HDDq8H93w2WPMRreEl1R-59" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HDDq8H93w2WPMRreEl1R-61" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HDDq8H93w2WPMRreEl1R-62" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HDDq8H93w2WPMRreEl1R-63" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
